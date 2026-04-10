@@ -164,10 +164,6 @@ clasificacion-metodos-anticonceptivos/
 
 Proyecto desarrollado como ejercicio académico — Maestría en Ciencia de Datos
 
-- Oscar Mauricio Montaño
-- Leimar Torres
-- Juan Hurtado
-
 **Oscar Mauricio Montaño** — Analista de Datos | Power BI · SQL · Python · R
 
 mbexcel@hotmail.com · Ver portafolio en GitHub: https://github.com/msorin81
